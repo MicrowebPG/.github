@@ -9,6 +9,7 @@ Siamo un team specializzato nello **sviluppo di piattaforme web professionali**,
 ## 🛠️ Stack Tecnologico
 
 Utilizziamo uno **stack moderno, scalabile e ben documentato**, che ci consente di consegnare soluzioni robuste, manutenibili e belle da usare:
+
 ![Php](https://img.shields.io/badge/Php-8-ffffff?logo=php&style=for-the-badge&color=777BB4&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-12-ffffff?logo=laravel&style=for-the-badge&color=FF2D20&logoColor=FF2D20)
 ![MySQL](https://img.shields.io/badge/MYSQL-8-ffffff?logo=mysql&style=for-the-badge&color=4479A1&logoColor=4479A1) <br>
