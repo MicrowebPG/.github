@@ -22,8 +22,6 @@ Utilizziamo uno **stack moderno, scalabile e ben documentato**, che ci consente 
 ![Vite](https://img.shields.io/badge/Vite-5-ffffff?logo=vite&style=for-the-badge&color=646CFF&logoColor=646CFF)
 ![Angular](https://img.shields.io/badge/Angular-19-ffffff?logo=angular&style=for-the-badge&color=DD0031&logoColor=DD0031)
 ![Ionic](https://img.shields.io/badge/Ionic-8-ffffff?logo=ionic&style=for-the-badge&color=3880FF&logoColor=3880FF)
-
-🐐 Mascotte non ufficiale: una **capra nerd** con gli occhiali, sempre in cima alla montagna... del refactoring!
 <!--
 
 **Here are some ideas to get you started:**
