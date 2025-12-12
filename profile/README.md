@@ -10,11 +10,11 @@ Siamo un team specializzato nello **sviluppo di piattaforme web professionali**,
 
 Utilizziamo uno **stack moderno, scalabile e ben documentato**, che ci consente di consegnare soluzioni robuste, manutenibili e belle da usare:
 
-![NextJS](https://img.shields.io/badge/Next.js-15-000000?logo=next.js&style=for-the-badge&color=000000&logoColor=ffffff)
+![NextJS](https://img.shields.io/badge/Next.js-16-000000?logo=next.js&style=for-the-badge&color=000000&logoColor=ffffff)
 ![Typescript](https://img.shields.io/badge/Typescript-5-ffffff?logo=typescript&style=for-the-badge&color=3178C6&logoColor=3178C6)
 ![MySQL](https://img.shields.io/badge/MYSQL-8-ffffff?logo=mysql&style=for-the-badge&color=4479A1&logoColor=4479A1)
-![Prisma](https://img.shields.io/badge/Prisma-6-2D3748?logo=prisma&style=for-the-badge&color=2D3748&logoColor=2D3748)
-![ShadcnUI](https://img.shields.io/badge/shadcnui-2-000000?logo=shadcnui&style=for-the-badge&color=000000&logoColor=ffffff) <br>
+![Prisma](https://img.shields.io/badge/Prisma-7-2D3748?logo=prisma&style=for-the-badge&color=2D3748&logoColor=2D3748)
+![ShadcnUI](https://img.shields.io/badge/shadcnui-3-000000?logo=shadcnui&style=for-the-badge&color=000000&logoColor=ffffff) <br>
 ![Laravel](https://img.shields.io/badge/Laravel-12-ffffff?logo=laravel&style=for-the-badge&color=FF2D20&logoColor=FF2D20)
 ![Php](https://img.shields.io/badge/Php-8-ffffff?logo=php&style=for-the-badge&color=777BB4&logoColor=777BB4)
 ![React](https://img.shields.io/badge/React-19-ffffff?logo=react&style=for-the-badge&color=61DAFB&logoColor=61DAFB)
